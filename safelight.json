@@ -1,0 +1,8 @@
+{
+  "id": "theme-darkroom-amber",
+  "name": "Darkroom Amber",
+  "version": "1.0.0",
+  "description": "Warm near-black theme with an amber safelight accent.",
+  "author": "Tokyo",
+  "main": "index.js"
+}
