@@ -1,8 +1,10 @@
 {
   "id": "theme-darkroom-amber",
+  "categories": ["Themes"],
   "name": "Darkroom Amber",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "minAppVersion": "2.4.3",
   "description": "Warm near-black theme with an amber safelight accent.",
-  "author": "Tokyo",
+  "author": "Anthony Reimche",
   "main": "index.js"
 }
